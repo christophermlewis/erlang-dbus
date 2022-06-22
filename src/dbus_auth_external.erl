@@ -18,7 +18,7 @@
 -export([init/0,
 	 challenge/2]).
 
--define(cookie, <<"31303030">>).
+-define(cookie, <<"30">>).
 
 %% @doc Initialize EXTERNAL mechanism.
 %% 
